@@ -1,2 +1,2 @@
-# mimi-project
+# mini-project
 railway reservation system
